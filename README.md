@@ -28,3 +28,18 @@ Throughout my career, I’ve been part of high-impact projects for **large-scale
 - 💸 **Payments & Investments**
 - 📊 **Risk & Regulatory Systems**
 - 🏛️ **Government Financial & Tax**
+
+## ⚙️ My Toolbox
+
+- 👨‍💻 **Automation & Manual Testing**
+- 🔄 **CI/CD Pipelines**
+- 🔍 Deep understanding of **software quality practices**
+- 📁 Experience working in **scalable, critical and robust environments**
+
+---
+
+## 🚀 Let’s Connect!
+
+I’m always open to connect, collaborate, and share knowledge with other professionals in the tech community. Check out some of my projects and feel free to reach out!
+
+---
