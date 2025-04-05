@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jefferson!
 
-🎯 **Experienced QA Engineer | 8+ Years in Software Quality Assurance | Automation Specialist**
+🎯 **Experienced QA Engineer | 8+ Years in Software Quality Assurance | QA Automation Engineer **
 
 ---
 
