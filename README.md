@@ -1,3 +1,30 @@
-## Hi there 👋
-I'm Jefferson, a Experienced QA Engineer, working for the last 8 years with software quality assurance focused on test automation, with background in several levels of software testing such as:  Functional or Black-Box Testing on REST APIs - Back-End (API Testing) and on Front-End Applications (Web Interface Testing/UI Testing), Non-Functional or Load Testing (Performance Testing), Exploratory Tests, Smoke Tests and Regression Tests. During my carrer, I've been working with large-scale web applications, microservices and APIs, in highly critical and robust environments, with millions of active users in the areas of core banking, payments, investments, risks and regulatory for the financial sector, as well as for tax and financial administration for the government sector. 
-Well-versed in both, manual and automation testing and knowledge of working with CI/CD pipelines.
+# 👋 Hi there, I'm Jefferson!
+
+🎯 **Experienced QA Engineer | 8+ Years in Software Quality Assurance | Automation Specialist**
+
+---
+
+## 🧪 About Me
+
+I'm Jefferson, a passionate and detail-oriented **QA Engineer** with over **8 years** of experience in software quality, mainly focused on **test automation**. I have a strong background in a wide range of testing strategies, including:
+
+- ✅ **Functional Testing** (Black-Box) on:
+  - REST APIs – *Back-End/API Testing*
+  - Web Applications – *Front-End/UI Testing*
+- ✅ **Non-Functional Testing**
+  - *Load & Performance Testing*
+- ✅ **Other Testing Types**
+  - *Exploratory Testing*
+  - *Smoke Testing*
+  - *Regression Testing*
+
+---
+
+## 💼 Domains I’ve Worked In
+
+Throughout my career, I’ve been part of high-impact projects for **large-scale web applications**, **microservices**, and **critical APIs**, supporting millions of users in:
+
+- 🏦 **Core Banking**
+- 💸 **Payments & Investments**
+- 📊 **Risk & Regulatory Systems**
+- 🏛️ **Government Financial & Tax**
