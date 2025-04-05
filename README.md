@@ -6,7 +6,7 @@
 
 ## 🧪 About Me
 
-I'm Jefferson, a passionate and detail-oriented **QA Engineer** with over **8 years** of experience in software quality, mainly focused on **test automation**. I have a strong background in a wide range of testing strategies, including:
+I'm Jefferson, an analytical and detail-oriented **QA Engineer** with over **8 years** of experience in software quality, mainly focused on **test automation**. I have a strong background in a wide range of testing strategies, including:
 
 - ✅ **Functional Testing** (Black-Box) on:
   - REST APIs – *Back-End/API Testing*
